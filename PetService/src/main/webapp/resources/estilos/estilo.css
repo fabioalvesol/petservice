@@ -1,0 +1,48 @@
+@CHARSET "ISO-8859-1";
+
+.ajax-status {
+	position: fixed;
+	top: 85px;
+	right: 10px;
+	width: 35px;
+	height: 35px
+}
+
+body {
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0px;
+	font-weight: normal
+}
+
+header {
+	padding: 5px;
+	margin-bottom: 20px;
+	height: 35px;
+	background-color: #DEDFFF;
+	color: #fff;
+	box-shadow: 0px 2px 2px #B2D2FF
+}
+
+header img {
+	height: 38px;
+}
+
+#conteudo {
+	padding: 0px 8px
+}
+
+footer {
+	border-top: 1px solid #B2D2FF;
+	padding: 5px 8px;
+	margin-top: 20px;
+	margin-bottom: 10px
+}
+
+h1 {
+	font-size: 24px;
+	font-weight: 500;
+	padding: 0px;
+	margin: 0px;
+	margin-bottom: 10px
+}
